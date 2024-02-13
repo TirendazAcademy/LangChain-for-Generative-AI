@@ -1,0 +1,7 @@
+langchain==0.1.6
+langchain-core==0.1.22
+langchain-openai==0.0.5
+python-dotenv==1.0.1
+beautifulsoup4==4.12.2
+faiss-cpu==1.7.4
+huggingface_hub==0.17.3
